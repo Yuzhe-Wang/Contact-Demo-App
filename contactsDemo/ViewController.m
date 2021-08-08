@@ -102,7 +102,7 @@
     
     UITableViewCell * cell = [tableView cellForRowAtIndexPath:indexPath];
     NSString * str = cell.textLabel.text;
-    detail.title = [NSString stringWithFormat:@"%@ 的联系方式", str];
+    detail.title = [NSString stringWithFormat:@"%@", str];
     
     [self.navigationController pushViewController:detail animated:YES];
 }
