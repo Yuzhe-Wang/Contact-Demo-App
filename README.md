@@ -9,14 +9,14 @@
 ## Light Mode Look :
 
 ### Launch Page
-![Image text](https://github.com/Yuzhe-Wang/Contact-Demo-App/blob/main/images/IMG_4407.PNG)
+<img src="https://github.com/Yuzhe-Wang/Contact-Demo-App/blob/main/images/IMG_4407.PNG" alt="A" width="50%"/>
 
 ### Detail Page
-![Image text](https://github.com/Yuzhe-Wang/Contact-Demo-App/blob/main/images/IMG_4408.PNG)
+<img src="https://github.com/Yuzhe-Wang/Contact-Demo-App/blob/main/images/IMG_4408.PNG" alt="B" width="50%"/>
 
 ## Dark Mode Look:
 ### Launch Page
-![Image text](https://github.com/Yuzhe-Wang/Contact-Demo-App/blob/main/images/IMG_4409.PNG)
+<img src="https://github.com/Yuzhe-Wang/Contact-Demo-App/blob/main/images/IMG_4409.PNG" alt="C" width="50%"/>
 
 ### Detail Page
-![Image text](https://github.com/Yuzhe-Wang/Contact-Demo-App/blob/main/images/IMG_4410.PNG)
+<img src="https://github.com/Yuzhe-Wang/Contact-Demo-App/blob/main/images/IMG_4410.PNG" alt="D" width="50%"/>
